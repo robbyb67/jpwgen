@@ -6,7 +6,7 @@ import java.util.List;
 
 import junit.framework.Assert;
 
-import org.apache.commons.lang.time.StopWatch;
+import org.apache.commons.lang3.time.StopWatch;
 import org.testng.annotations.Test;
 
 import de.rrze.jpwgen.IPasswordPolicy;

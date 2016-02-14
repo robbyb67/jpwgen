@@ -3,7 +3,7 @@ package de.rrze.jpwgen.test;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.lang.time.StopWatch;
+import org.apache.commons.lang3.time.StopWatch;
 import org.testng.annotations.Test;
 
 public class RegexTest {
